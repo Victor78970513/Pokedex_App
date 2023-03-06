@@ -16,3 +16,14 @@ I'm using http 0.13.5 and provider 6.0.5
 <img src="web/icons/image_2.jpeg" width="300" height="35%">
 <img src="web/icons/image_3.jpeg" width="300" height="35%">
 <img src="web/icons/image_3.jpeg" width="300" height="35%">
+
+# Packages
+
+- [http](https://pub.dev/packages/http)
+- [provider](https://pub.dev/packages/provider)
+- [cached_network_image](https://pub.dev/packages/cached_network_image)
+
+# Future Roadmap
+
+- Add Search for Pokemon
+- Add more Pokemon Information
